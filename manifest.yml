@@ -1,7 +1,7 @@
 applications:
 - disk_quota: 1024M
-  host: easyforum-sandhya
-  name: EasyForum-Sandhya
+  host: jspforum-sandhya
+  name: JSPForum-Sandhya
   path: webStarterApp.war
   domain: mybluemix.net
   instances: 1
